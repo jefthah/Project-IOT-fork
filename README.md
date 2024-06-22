@@ -58,25 +58,3 @@ Follow these steps to set up and run the application:
     ```
     Open `http://localhost:3000/dashboard` in your web browser.
 
-If the website is displayed correctly, the project is successfully set up and running.
-
----
-
-## Additional Information
-
-For further assistance, refer to the documentation provided within each project folder or seek help from the community.
-
-### License
-
-This project is licensed under the [Your License Name].
-
-### Contributors
-
-- [Your Name]
-- [Contributor Name]
-
-### Contact
-
-For any questions, feel free to reach out at [your-email@example.com].
-
-Happy gardening!
