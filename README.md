@@ -15,7 +15,3 @@ Ini adalah projek Automatic Gardening System yang dibuat dengan menggunakan wokw
 10. Jalankan perintah `npm install` untuk menginstall dependency
 11. Kemudian jalankan `npm start` di terminal  dan buka `http://localhost:3000/dashboard`
 12. Jika website sudah tampil, maka projek berhasil dijalankan
-
-For the API documentation you can check from this link:
-- [mylistanime/api-docs](https://mylistanime-docs.vercel.app/)
-
